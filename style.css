@@ -95,7 +95,7 @@ body {
       rgba(0, 0, 0, 1.7),
       rgba(0, 0, 0, 0)
     ),
-    url(../img/bg.jpg);
+    url(bg.jpg);
   background-repeat: no-repeat;
   background-position: right;
   background-size: cover;
@@ -225,7 +225,7 @@ body {
         rgba(0, 0, 0, 1.7),
         rgba(0, 0, 0, 0)
       ),
-      url(../img/bg.jpg);
+      url(bg.jpg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: cover;
@@ -269,3 +269,4 @@ body {
     border: solid 1px var(--silver);
   }
 }
+
