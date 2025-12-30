@@ -189,6 +189,14 @@ body {
   background-color: var(--primary);
 }
 
+  .container .conten {
+    display: block;
+    margin-top: 300px;
+    margin-left: 2px;
+    align-content: center;
+    color: var(--primary);
+  }
+  
 .container a {
   display: block;
   background-color: var(--primary);
@@ -270,6 +278,7 @@ body {
     border: solid 1px var(--silver);
   }
 }
+
 
 
 
