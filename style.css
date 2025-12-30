@@ -243,6 +243,7 @@ body {
     color: var(--primary);
   }
   .container h1 {
+    margin-top: 300px:
     font-size: 20px;
     font-family: "Miltonian Tattoo";
   }
@@ -269,6 +270,7 @@ body {
     border: solid 1px var(--silver);
   }
 }
+
 
 
 
