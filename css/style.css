@@ -25,13 +25,13 @@ body {
 .navbar {
   background-color: var(--bg);
   position: fixed;
-  top: 0;
+  top: 0px;
   left: 0px;
   right: 0px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 1% 5%;
+  margin: 0% 5%;
   border-bottom: solid 1px var(--biru-gelap);
   z-index: 9999;
   padding-left: 20px;
@@ -364,3 +364,4 @@ body {
     border: solid 1px var(--silver);
   }
 }
+
